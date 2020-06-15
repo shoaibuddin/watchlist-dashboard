@@ -1,0 +1,48 @@
+const initialData = [
+    {
+        id: 1,
+        stockName: 'SPY',
+        open: 178.11,
+        close:179.44,
+        high: 180.23,
+        low: 175.31,
+        volume: 112349,
+    },
+    {
+        id:2,
+        stockName: 'DJI',
+        open: 178.11,
+        close:179.44,
+        high: 180.23,
+        low: 175.31,
+        volume: 112349,
+    },
+    {
+        id:3,
+        stockName: 'RUS',
+        open: 178.11,
+        close:179.44,
+        high: 180.23,
+        low: 175.31,
+        volume: 112349,
+    },
+    {
+        id:4,
+        stockName: 'NDX',
+        open: 178.11,
+        close:179.44,
+        high: 180.23,
+        low: 175.31,
+        volume: 112349,
+    },
+    {
+        id:5,
+        stockName: 'TSLA',
+        open: 1008.41,
+        close: 1018.24,
+        high: 1020.13,
+        low: 970.61,
+        volume: 112349,
+    },
+];
+export default initialData;

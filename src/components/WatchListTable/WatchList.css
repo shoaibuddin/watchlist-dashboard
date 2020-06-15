@@ -1,0 +1,15 @@
+.watchList-footer {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.watchList-autoComplete {
+    border: 1px solid #d3d3d3;
+    border-top: none;
+    width: 192px;
+}
+
+.watchList-searchValue {
+    border-bottom: 1px solid #d3d3d3;
+    padding: 10px;
+}

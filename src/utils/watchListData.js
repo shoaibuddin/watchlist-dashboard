@@ -1,0 +1,48 @@
+const data = [
+    {
+        id: 6,
+        stockName: 'AYTU',
+        open: 1.11,
+        close: 2.44,
+        high: 2.53,
+        low: 1.91,
+        volume: 2349,
+    },
+    {
+        id: 7,
+        stockName: 'GILD',
+        open: 78.11,
+        close: 79.44,
+        high: 80.23,
+        low: 75.31,
+        volume: 12349,
+    },
+    {
+        id: 8,
+        stockName: 'AMZN',
+        open: 2178.11,
+        close: 2179.44,
+        high: 2180.23,
+        low: 2175.31,
+        volume: 101349,
+    },
+    {
+        id: 9,
+        stockName: 'APPL',
+        open: 378.11,
+        close: 379.44,
+        high: 380.23,
+        low: 375.31,
+        volume: 212349,
+    },
+    {
+        id: 5,
+        stockName: 'TSLA',
+        open: 1008.41,
+        close: 1018.24,
+        high: 1020.13,
+        low: 970.61,
+        volume: 112349,
+    },
+];
+export default data;
